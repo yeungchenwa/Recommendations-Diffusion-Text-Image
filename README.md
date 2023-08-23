@@ -47,6 +47,8 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Artistic Font Generation
++ [ControlNet on Text Effect](https://zhuanlan.zhihu.com/p/643872569) (Jul., 2023)
+
 + [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (ICCV2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09604)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://ds-fusion.github.io/)
