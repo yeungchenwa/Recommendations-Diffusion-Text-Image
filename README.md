@@ -41,7 +41,6 @@ This repository contains a collection of recent diffusion models for text-image 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
 
-
 ### Font Generation
 + [Diff-Font: Diffusion Model for Robust One-Shot Font Generation](https://arxiv.org/abs/2212.05895) (Dec., 2022)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05895)
@@ -76,5 +75,24 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/DiffSTE.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/DiffSTE)
 
 ### Text-Image Removal
+Waiting for you!
 
 ### Handwritten Generation
++ [Conditional Text Image Generation with Diffusion Models](https://arxiv.org/abs/2306.10804) (CVPR2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.10804)
+
++ [ChiroDiff: Modelling chirographic data with Diffusion Models](https://arxiv.org/abs/2304.03785) (ICLR2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.03785)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://ayandas.me/chirodiff)
+  [![Star](https://img.shields.io/github/stars/dasayan05/chirodiff.svg?style=social&label=Star)](https://github.com/dasayan05/chirodiff)
+
++ [Zero-shot Generation of Training Data with Denoising Diffusion Probabilistic Model for Handwritten Chinese Character Recognition](https://arxiv.org/abs/2305.15660) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15660)
+
++ [WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models](https://arxiv.org/abs/2303.16576) (ICDAR2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16576)
+  [![Star](https://img.shields.io/github/stars/koninik/WordStylist.svg?style=social&label=Star)](https://github.com/koninik/WordStylist)
+
++ [Diffusion models for Handwriting Generation](https://arxiv.org/abs/2011.06704) (Nov., 2020)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.06704)
+  [![Star](https://img.shields.io/github/stars/tcl9876/Diffusion-Handwriting-Generation.svg?style=social&label=Star)](https://github.com/tcl9876/Diffusion-Handwriting-Generation)
