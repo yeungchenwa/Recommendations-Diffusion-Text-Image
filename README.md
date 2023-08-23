@@ -3,16 +3,16 @@
 This repository contains a collection of recent diffusion models for text-image generation tasks.
 
 ## Table of Contents
-- [Text-to-Image (Visual Text Generation)](#🔥-text-to-image-visual-text-generation)
-- [Font Generation](#🔥-font-generation)
-- [Artistic Font Generation](#🔥-artistic-font-generation)
-- [Text-Image Super Resolution](#🔥-text-image-super-resolution)
-- [Text-Image Editing](#🔥-text-image-editing)
-- [Text-Image Removal](#🔥-text-image-removal)
-- [Handwritten Generation](#🔥-handwritten-generation)
+- [Text-to-Image (Visual Text Generation)](#text-to-image-visual-text-generation-🔥)
+- [Font Generation](#font-generation-🔥)
+- [Artistic Font Generation](#artistic-font-generation-🔥)
+- [Text-Image Super Resolution](#text-image-super-resolution-🔥)
+- [Text-Image Editing](#text-image-editing-🔥)
+- [Text-Image Removal](#text-image-removal-🔥)
+- [Handwritten Generation](#handwritten-generation-🔥)
 ##
 
-### 🔥 Text-to-Image (Visual Text Generation)
+### Text-to-Image (Visual Text Generation) 🔥
 + [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855) (May, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10855)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
@@ -42,14 +42,14 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
 
 
-### 🔥 Font Generation
+### Font Generation 🔥
 
-### 🔥 Artistic Font Generation
+### Artistic Font Generation 🔥
 
-### 🔥 Text-Image Super Resolution
+### Text-Image Super Resolution 🔥
 
-### 🔥 Text-Image Editing
+### Text-Image Editing 🔥
 
-### 🔥 Text-Image Removal
+### Text-Image Removal 🔥
 
-### 🔥 Handwritten Generation
+### Handwritten Generation 🔥
