@@ -48,6 +48,11 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Artistic Font Generation
++ [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (Mar., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09604)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://ds-fusion.github.io/)
+  [![Star](https://img.shields.io/github/stars/tmaham/DS-Fusion.svg?style=social&label=Star)](https://github.com/tmaham/DS-Fusion)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/tmaham/DS-Fusion-Express)
 
 ### Text-Image Super Resolution
 
