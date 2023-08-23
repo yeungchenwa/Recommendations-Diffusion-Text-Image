@@ -1,6 +1,6 @@
 ![LOGO](imgs/logo.png)
 # Awesome Text-Image Diffusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-This repository contains a collection of recent diffusion models for text-image generation tasks.
+This repository contains a paper collection of recent diffusion models for text-image generation tasks.
 
 ## 📖 Table of Contents 👀
 - [Text-to-Image (Visual Text Generation)](#text-to-image-visual-text-generation)
@@ -47,6 +47,8 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Artistic Font Generation
++ [ControlNet on Text Effect](https://zhuanlan.zhihu.com/p/643872569) (Jul., 2023)
+
 + [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (ICCV2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09604)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://ds-fusion.github.io/)
