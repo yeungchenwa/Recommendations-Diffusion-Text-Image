@@ -6,9 +6,9 @@ This repository contains a collection of recent diffusion models for text-image 
 - [Text-to-Image (Visual Text Generation)](#text-to-image-visual-text-generation)
 - [Font Generation](#font-generation)
 - [Artistic Font Generation](#artistic-font-generation)
+- [Text-Image Removal](#text-image-removal)
 - [Text-Image Super Resolution](#text-image-super-resolution)
 - [Text-Image Editing](#text-image-editing)
-- [Text-Image Removal](#text-image-removal)
 - [Handwritten Generation](#handwritten-generation)
 ##
 
@@ -41,15 +41,59 @@ This repository contains a collection of recent diffusion models for text-image 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
 
-
 ### Font Generation
++ [Diff-Font: Diffusion Model for Robust One-Shot Font Generation](https://arxiv.org/abs/2212.05895) (Dec., 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05895)
+  [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Artistic Font Generation
-
-### Text-Image Super Resolution
-
-### Text-Image Editing
++ [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (ICCV2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09604)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://ds-fusion.github.io/)
+  [![Star](https://img.shields.io/github/stars/tmaham/DS-Fusion.svg?style=social&label=Star)](https://github.com/tmaham/DS-Fusion)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/tmaham/DS-Fusion-Express)
 
 ### Text-Image Removal
++ [Optical Character Recognition with Segment Anything (OCR-SAM)](https://github.com/yeungchenwa/OCR-SAM) (Apr. 2023)  
+  [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM)
+
+### Text-Image Super Resolution
++ [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) (Aug., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06743)
+  [![Star](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff)
+
++ [DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892) (ACMMM2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03892)
+  [![Star](https://img.shields.io/github/stars/Royalvice/DocDiff.svg?style=social&label=Star)](https://github.com/Royalvice/DocDiff)
+
++ [STIRER: A Unified Model for Low-Resolution Scene Text Image Recovery and Recognition](https://github.com/zhaominyiz/STIRER) (ACMMM2023)  
+  [![Star](https://img.shields.io/github/stars/zhaominyiz/STIRER.svg?style=social&label=Star)](https://github.com/zhaominyiz/STIRER)
+
+### Text-Image Editing
++ [DiffUTE: Universal Text Editing Diffusion Model](https://arxiv.org/abs/2305.10825) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10825)
+  [![Star](https://img.shields.io/github/stars/chenhaoxing/DiffUTE.svg?style=social&label=Star)](https://github.com/chenhaoxing/DiffUTE)
+
++ [Improving Diffusion Models for Scene Text Editing with Dual Encoders](https://arxiv.org/abs/2304.05568) (Apr., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05568)
+  [![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/DiffSTE.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/DiffSTE)
 
 ### Handwritten Generation
++ [Conditional Text Image Generation with Diffusion Models](https://arxiv.org/abs/2306.10804) (CVPR2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.10804)
+
++ [ChiroDiff: Modelling chirographic data with Diffusion Models](https://arxiv.org/abs/2304.03785) (ICLR2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.03785)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://ayandas.me/chirodiff)
+  [![Star](https://img.shields.io/github/stars/dasayan05/chirodiff.svg?style=social&label=Star)](https://github.com/dasayan05/chirodiff)
+
++ [Zero-shot Generation of Training Data with Denoising Diffusion Probabilistic Model for Handwritten Chinese Character Recognition](https://arxiv.org/abs/2305.15660) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15660)
+
++ [WordStylist: Styled Verbatim Handwritten Text Generation with Latent Diffusion Models](https://arxiv.org/abs/2303.16576) (ICDAR2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.16576)
+  [![Star](https://img.shields.io/github/stars/koninik/WordStylist.svg?style=social&label=Star)](https://github.com/koninik/WordStylist)
+
++ [Diffusion models for Handwriting Generation](https://arxiv.org/abs/2011.06704) (Nov., 2020)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.06704)
+  [![Star](https://img.shields.io/github/stars/tcl9876/Diffusion-Handwriting-Generation.svg?style=social&label=Star)](https://github.com/tcl9876/Diffusion-Handwriting-Generation)
