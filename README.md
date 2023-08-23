@@ -43,6 +43,9 @@ This repository contains a collection of recent diffusion models for text-image 
 
 
 ### Font Generation
++ [Diff-Font: Diffusion Model for Robust One-Shot Font Generation](https://arxiv.org/abs/2212.05895) (Dec., 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05895)
+  [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Artistic Font Generation
 
