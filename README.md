@@ -37,7 +37,7 @@ This repository contains a collection of recent diffusion models for text-image 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.01324)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://deepimagination.cc/eDiff-I/)
 
-+ [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) (May, 2023)  
++ [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) (May, 2022)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
 
