@@ -6,9 +6,9 @@ This repository contains a collection of recent diffusion models for text-image 
 - [Text-to-Image (Visual Text Generation)](#text-to-image-visual-text-generation)
 - [Font Generation](#font-generation)
 - [Artistic Font Generation](#artistic-font-generation)
+- [Text-Image Removal](#text-image-removal)
 - [Text-Image Super Resolution](#text-image-super-resolution)
 - [Text-Image Editing](#text-image-editing)
-- [Text-Image Removal](#text-image-removal)
 - [Handwritten Generation](#handwritten-generation)
 ##
 
@@ -53,6 +53,10 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Star](https://img.shields.io/github/stars/tmaham/DS-Fusion.svg?style=social&label=Star)](https://github.com/tmaham/DS-Fusion)
   [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/tmaham/DS-Fusion-Express)
 
+### Text-Image Removal
++ [Optical Character Recognition with Segment Anything (OCR-SAM)](https://github.com/yeungchenwa/OCR-SAM) (Apr. 2023)  
+  [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM)
+
 ### Text-Image Super Resolution
 + [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) (Aug., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06743)
@@ -73,9 +77,6 @@ This repository contains a collection of recent diffusion models for text-image 
 + [Improving Diffusion Models for Scene Text Editing with Dual Encoders](https://arxiv.org/abs/2304.05568) (Apr., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05568)
   [![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/DiffSTE.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/DiffSTE)
-
-### Text-Image Removal
-Waiting for you!
 
 ### Handwritten Generation
 + [Conditional Text Image Generation with Diffusion Models](https://arxiv.org/abs/2306.10804) (CVPR2023)  
