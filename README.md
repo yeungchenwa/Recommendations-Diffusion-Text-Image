@@ -13,6 +13,12 @@ This repository contains a collection of recent diffusion models for text-image 
 ##
 
 ### 🔥 Text-to-Image (Visual Text Generation)
++ [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10855)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
+  [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)
+
 
 ### 🔥 Font Generation
 
