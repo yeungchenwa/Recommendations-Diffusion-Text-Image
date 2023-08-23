@@ -19,6 +19,28 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser)
   [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/JingyeChen22/TextDiffuser)
 
++ [GlyphControl: Glyph Conditional Control for Visual Text Generation](https://arxiv.org/abs/2305.18259) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18259)
+  [![Star](https://img.shields.io/github/stars/AIGText/GlyphControl-release.svg?style=social&label=Star)](https://github.com/AIGText/GlyphControl-release)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/AIGText/GlyphControl)
+
++ [IF](https://github.com/deep-floyd/IF) (Apr., 2023)  
+  [![Star](https://img.shields.io/github/stars/deep-floyd/IF.svg?style=social&label=Star)](https://github.com/deep-floyd/IF)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/DeepFloyd/IF)
+
++ [GlyphDraw: Seamlessly Rendering Text with Intricate Spatial Structures in Text-to-Image Generation](https://arxiv.org/abs/2303.17870) (Mar., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17870)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://1073521013.github.io/glyph-draw.github.io/)
+  [![Star](https://img.shields.io/github/stars/OPPO-Mente-Lab/GlyphDraw.svg?style=social&label=Star)](https://github.com/OPPO-Mente-Lab/GlyphDraw)
+
++ [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://arxiv.org/abs/2211.01324) (Nov., 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.01324)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://deepimagination.cc/eDiff-I/)
+
++ [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
+
 
 ### 🔥 Font Generation
 
