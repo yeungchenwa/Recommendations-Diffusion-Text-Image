@@ -48,13 +48,19 @@ This repository contains a collection of recent diffusion models for text-image 
   [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Artistic Font Generation
-+ [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (Mar., 2023)  
++ [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (ICCV2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.09604)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://ds-fusion.github.io/)
   [![Star](https://img.shields.io/github/stars/tmaham/DS-Fusion.svg?style=social&label=Star)](https://github.com/tmaham/DS-Fusion)
   [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/tmaham/DS-Fusion-Express)
 
 ### Text-Image Super Resolution
++ [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) (Aug., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06743)
+  [![Star](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff)
+
++ [STIRER: A Unified Model for Low-Resolution Scene Text Image Recovery and Recognition](https://github.com/zhaominyiz/STIRER) (ACMMM2023)  
+  [![Star](https://img.shields.io/github/stars/zhaominyiz/STIRER.svg?style=social&label=Star)](https://github.com/zhaominyiz/STIRER)
 
 ### Text-Image Editing
 
