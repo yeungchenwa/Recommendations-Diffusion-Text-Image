@@ -59,10 +59,21 @@ This repository contains a collection of recent diffusion models for text-image 
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06743)
   [![Star](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff)
 
++ [DocDiff: Document Enhancement via Residual Diffusion Models](https://arxiv.org/abs/2305.03892) (ACMMM2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.03892)
+  [![Star](https://img.shields.io/github/stars/Royalvice/DocDiff.svg?style=social&label=Star)](https://github.com/Royalvice/DocDiff)
+
 + [STIRER: A Unified Model for Low-Resolution Scene Text Image Recovery and Recognition](https://github.com/zhaominyiz/STIRER) (ACMMM2023)  
   [![Star](https://img.shields.io/github/stars/zhaominyiz/STIRER.svg?style=social&label=Star)](https://github.com/zhaominyiz/STIRER)
 
 ### Text-Image Editing
++ [DiffUTE: Universal Text Editing Diffusion Model](https://arxiv.org/abs/2305.10825) (May, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10825)
+  [![Star](https://img.shields.io/github/stars/chenhaoxing/DiffUTE.svg?style=social&label=Star)](https://github.com/chenhaoxing/DiffUTE)
+
++ [Improving Diffusion Models for Scene Text Editing with Dual Encoders](https://arxiv.org/abs/2304.05568) (Apr., 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05568)
+  [![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/DiffSTE.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/DiffSTE)
 
 ### Text-Image Removal
 
