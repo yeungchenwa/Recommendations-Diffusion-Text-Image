@@ -10,6 +10,7 @@ This repository contains a paper collection of recent diffusion models for text-
 - [Text-Image Super Resolution](#text-image-super-resolution)
 - [Text-Image Editing](#text-image-editing)
 - [Handwritten Generation](#handwritten-generation)
+- [Scene Text Recognition](#scene-text-recognition)
 ##
 
 ### Text-to-Image (Visual Text Generation)
@@ -99,3 +100,7 @@ This repository contains a paper collection of recent diffusion models for text-
 + [Diffusion models for Handwriting Generation](https://arxiv.org/abs/2011.06704) (Nov., 2020)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.06704)
   [![Star](https://img.shields.io/github/stars/tcl9876/Diffusion-Handwriting-Generation.svg?style=social&label=Star)](https://github.com/tcl9876/Diffusion-Handwriting-Generation)
+
+### Scene Text Recognition
++ [DiffusionSTR: Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2306.16707) (ICIP2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.16707)
