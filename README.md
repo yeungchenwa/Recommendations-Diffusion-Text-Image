@@ -61,6 +61,11 @@ This repository contains a paper collection of recent diffusion models for text-
   [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM)
 
 ### Text-Image Super Resolution
++ [DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070) (Aug. 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15070)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://0x3f3f3f3fun.github.io/projects/diffbir/)
+  [![Star](https://img.shields.io/github/stars/XPixelGroup/DiffBIR.svg?style=social&label=Star)](https://github.com/XPixelGroup/DiffBIR)
+
 + [TextDiff: Mask-Guided Residual Diffusion Models for Scene Text Image Super-Resolution](https://arxiv.org/abs/2308.06743) (Aug., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.06743)
   [![Star](https://img.shields.io/github/stars/Lenubolim/TextDiff.svg?style=social&label=Star)](https://github.com/Lenubolim/TextDiff)
