@@ -34,6 +34,9 @@ This repository contains a paper collection of recent diffusion models for text-
   [![Project](https://img.shields.io/badge/Project-9cf)](https://1073521013.github.io/glyph-draw.github.io/)
   [![Star](https://img.shields.io/github/stars/OPPO-Mente-Lab/GlyphDraw.svg?style=social&label=Star)](https://github.com/OPPO-Mente-Lab/GlyphDraw)
 
++ [Character-aware models improve visual text rendering](https://arxiv.org/abs/2212.10562) (Dec., 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.10562)
+
 + [eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers](https://arxiv.org/abs/2211.01324) (Nov., 2022)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.01324)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://deepimagination.cc/eDiff-I/)
