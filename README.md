@@ -81,6 +81,9 @@ This repository contains a paper collection of recent diffusion models for text-
   [![Star](https://img.shields.io/github/stars/zhaominyiz/STIRER.svg?style=social&label=Star)](https://github.com/zhaominyiz/STIRER)
 
 ### Text-Image Editing
++ [On Manipulating Scene Text in the Wild with Diffusion Models](https://arxiv.org/abs/2311.00734) (WACV2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.00734)
+
 + [DiffUTE: Universal Text Editing Diffusion Model](https://arxiv.org/abs/2305.10825) (May, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10825)
   [![Star](https://img.shields.io/github/stars/chenhaoxing/DiffUTE.svg?style=social&label=Star)](https://github.com/chenhaoxing/DiffUTE)
