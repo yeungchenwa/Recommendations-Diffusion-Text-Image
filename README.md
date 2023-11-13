@@ -14,6 +14,10 @@ This repository contains a paper collection of recent diffusion models for text-
 ##
 
 ### Text-to-Image (Visual Text Generation)
++ [ANYTEXT: MULTILINGUAL VISUAL TEXT GENERATION AND EDITING](https://arxiv.org/abs/2311.03054) (Nov, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.03054)
+  [![Star](https://img.shields.io/github/stars/tyxsspa/AnyText.svg?style=social&label=Star)](https://github.com/tyxsspa/AnyText)
+
 + [TextDiffuser: Diffusion Models as Text Painters](https://arxiv.org/abs/2305.10855) (May, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10855)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://modelscope.cn/models/damo/text-to-video-synthesis/summary)
