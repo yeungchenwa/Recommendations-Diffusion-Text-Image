@@ -11,6 +11,7 @@ This repository contains a paper collection of recent diffusion models for text-
 - [Text-Image Editing](#text-image-editing)
 - [Handwritten Generation](#handwritten-generation)
 - [Scene Text Recognition](#scene-text-recognition)
+- [Scene Text Detection](#scene-text-detection)
 ##
 
 ### Text-to-Image (Visual Text Generation)
