@@ -123,3 +123,8 @@ This repository contains a paper collection of recent diffusion models for text-
 ### Scene Text Recognition
 + [DiffusionSTR: Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2306.16707) (ICIP2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.16707)
+
+### Scene Text Detection
++ [Enhancing Scene Text Detectors with Realistic Text Image Synthesis Using Diffusion
+Models](https://arxiv.org/abs/2311.16555) (Nov. 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16555)
