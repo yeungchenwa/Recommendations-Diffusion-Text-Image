@@ -73,6 +73,19 @@ This repository contains a paper collection of recent diffusion models for text-
   [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM)
 
 ### Text-Image Super Resolution
++ [PEAN: A Diffusion-based Prior-Enhanced Attention Network for
+Scene Text Image Super-Resolution](https://arxiv.org/abs/2311.17955) (Nov. 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17955)
+  [![Star](https://img.shields.io/github/stars/jdfxzzy/PEAN.svg?style=social&label=Star)](https://github.com/jdfxzzy/PEAN)
+
+
++ [RECOGNITION-GUIDED DIFFUSION MODEL FOR SCENE TEXT IMAGE
+SUPER-RESOLUTION](https://arxiv.org/abs/2311.13317) (Nov. 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.13317)
+
++ [Scene Text Image Super-resolution based on Text-conditional Diffusion Models](https://arxiv.org/abs/2311.09759) (Nov. 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09759)
+
 + [DiffBIR: Towards Blind Image Restoration with Generative Diffusion Prior](https://arxiv.org/abs/2308.15070) (Aug. 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15070)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://0x3f3f3f3fun.github.io/projects/diffbir/)
