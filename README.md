@@ -15,6 +15,12 @@ This repository contains a paper collection of recent diffusion models for text-
 ##
 
 ### Text-to-Image (Visual Text Generation)
++ [UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models](https://arxiv.org/abs/2312.04884) (Dec, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04884)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://udifftext.github.io/)
+  [![Star](https://img.shields.io/github/stars/zym-pku/udifftext.svg?style=social&label=Star)](https://github.com/zym-pku/udifftext)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/ZYMPKU/UDiffText)
+
 + [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://arxiv.org/abs/2311.16465v1) (Nov, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16465v1)
   [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)
