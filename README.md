@@ -23,7 +23,9 @@ This repository contains a paper collection of recent diffusion models for text-
 
 + [TextDiffuser-2: Unleashing the Power of Language Models for Text Rendering](https://arxiv.org/abs/2311.16465v1) (Nov, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.16465v1)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://jingyechen.github.io/textdiffuser2/)
   [![Star](https://img.shields.io/github/stars/microsoft/unilm.svg?style=social&label=Star)](https://github.com/microsoft/unilm/tree/master/textdiffuser-2)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/JingyeChen22/TextDiffuser-2)
 
 + [ANYTEXT: MULTILINGUAL VISUAL TEXT GENERATION AND EDITING](https://arxiv.org/abs/2311.03054) (Nov, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.03054)
