@@ -26,6 +26,10 @@ This repository contains a paper collection of recent diffusion models for text-
   [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Text-to-Image (Visual Text Generation)
++ [Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model](https://arxiv.org/abs/2312.12232) (Dec, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12232)
+  [![Star](https://img.shields.io/github/stars/ecnuljzhang/brush-your-text.svg?style=social&label=Star)](https://github.com/ecnuljzhang/brush-your-text)
+
 + [UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models](https://arxiv.org/abs/2312.04884) (Dec, 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.04884)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://udifftext.github.io/)
