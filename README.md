@@ -3,8 +3,8 @@
 This repository contains a paper collection of recent diffusion models for text-image generation tasks.
 
 ## 📖 Table of Contents 👀
-- [Text-to-Image (Visual Text Generation)](#text-to-image-visual-text-generation)
 - [Font Generation](#font-generation)
+- [Text-to-Image (Visual Text Generation)](#text-to-image-visual-text-generation)
 - [Artistic Font Generation](#artistic-font-generation)
 - [Text-Image Removal](#text-image-removal)
 - [Text-Image Super Resolution](#text-image-super-resolution)
@@ -13,6 +13,17 @@ This repository contains a paper collection of recent diffusion models for text-
 - [Scene Text Recognition](#scene-text-recognition)
 - [Scene Text Detection](#scene-text-detection)
 ##
+
+### Font Generation
++ 🔥🔥🔥 [FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning](https://arxiv.org/abs/2312.12142) (AAAI2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12142)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://yeungchenwa.github.io/fontdiffuser-homepage/)
+  [![Star](https://img.shields.io/github/stars/yeungchenwa/FontDiffuser.svg?style=social&label=Star)](https://github.com/yeungchenwa/FontDiffuser)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/yeungchenwa/FontDiffuser-Gradio)
+
++ [Diff-Font: Diffusion Model for Robust One-Shot Font Generation](https://arxiv.org/abs/2212.05895) (Dec., 2022)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05895)
+  [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Text-to-Image (Visual Text Generation)
 + [UDiffText: A Unified Framework for High-quality Text Synthesis in Arbitrary Images via Character-aware Diffusion Models](https://arxiv.org/abs/2312.04884) (Dec, 2023)  
@@ -61,11 +72,6 @@ This repository contains a paper collection of recent diffusion models for text-
 + [Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding](https://arxiv.org/abs/2205.11487) (May, 2022)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.11487)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
-
-### Font Generation
-+ [Diff-Font: Diffusion Model for Robust One-Shot Font Generation](https://arxiv.org/abs/2212.05895) (Dec., 2022)  
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.05895)
-  [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Artistic Font Generation
 + [ControlNet on Text Effect](https://mp.weixin.qq.com/s/rvpU4XhToldoec_bABeXJw) (Jul., 2023)
