@@ -155,6 +155,9 @@ SUPER-RESOLUTION](https://arxiv.org/abs/2311.13317) (Nov. 2023)
 ### Scene Text Recognition
 + [DiffusionSTR: Diffusion Model for Scene Text Recognition](https://arxiv.org/abs/2306.16707) (ICIP2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.16707)
++ [IPAD: Iterative, Parallel, and Diffusion-based
+Network for Scene Text Recognition](https://arxiv.org/abs/2312.11923) (TPAMI2023)   
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11923)
 
 ### Scene Text Detection
 + [Enhancing Scene Text Detectors with Realistic Text Image Synthesis Using Diffusion
