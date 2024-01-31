@@ -9,6 +9,7 @@ This repository contains a paper collection of recent diffusion models for text-
 - [Text-Image Removal](#text-image-removal)
 - [Text-Image Super Resolution](#text-image-super-resolution)
 - [Text-Image Editing](#text-image-editing)
+- [Inpainting](#inpainting)
 - [Handwritten Generation](#handwritten-generation)
 - [Scene Text Recognition](#scene-text-recognition)
 - [Scene Text Detection](#scene-text-detection)
@@ -131,6 +132,11 @@ SUPER-RESOLUTION](https://arxiv.org/abs/2311.13317) (Nov. 2023)
 + [Improving Diffusion Models for Scene Text Editing with Dual Encoders](https://arxiv.org/abs/2304.05568) (Apr., 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.05568)
   [![Star](https://img.shields.io/github/stars/UCSB-NLP-Chang/DiffSTE.svg?style=social&label=Star)](https://github.com/UCSB-NLP-Chang/DiffSTE)
+
+### Inpainting
++ [Text Image Inpainting via Global Structure-Guided Diffusion Models](https://arxiv.org/abs/2401.14832) (AAAI2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.14832)
+  [![Star](https://img.shields.io/github/stars/blackprotoss/GSDM.svg?style=social&label=Star)](https://github.com/blackprotoss/GSDM)
 
 ### Handwritten Generation
 + [Conditional Text Image Generation with Diffusion Models](https://arxiv.org/abs/2306.10804) (CVPR2023)  
