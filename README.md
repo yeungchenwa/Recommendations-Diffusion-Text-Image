@@ -16,6 +16,9 @@ This repository contains a paper collection of recent diffusion models for text-
 ##
 
 ### Font Generation
++ [Font Style Interpolation with Diffusion Models](https://arxiv.org/abs/2402.14311) (Fec., 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14311)
+
 + 🔥🔥🔥 [FontDiffuser: One-Shot Font Generation via Denoising Diffusion with Multi-Scale Content Aggregation and Style Contrastive Learning](https://arxiv.org/abs/2312.12142) (AAAI2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.12142)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://yeungchenwa.github.io/fontdiffuser-homepage/)
