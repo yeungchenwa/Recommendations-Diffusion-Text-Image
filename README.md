@@ -16,6 +16,9 @@ This repository contains a paper collection of recent diffusion models for text-
 ##
 
 ### Font Generation
++ [VecFusion: Vector Font Generation with Diffusion](https://arxiv.org/abs/2312.10540) (CVPR2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.10540)
+
 + [Font Style Interpolation with Diffusion Models](https://arxiv.org/abs/2402.14311) (Fec., 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.14311)
 
