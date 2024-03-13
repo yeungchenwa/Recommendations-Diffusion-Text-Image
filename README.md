@@ -85,6 +85,12 @@ This repository contains a paper collection of recent diffusion models for text-
   [![Project](https://img.shields.io/badge/Project-9cf)](https://imagen.research.google/)
 
 ### Artistic Font Generation
++ [Word-As-Image for Semantic Typography](https://arxiv.org/abs/2303.01818) (SIGGRAPH2023)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.01818)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://wordasimage.github.io/Word-As-Image-Page/)
+  [![Star](https://img.shields.io/github/stars/Shiriluz/Word-As-Image.svg?style=social&label=Star)](https://github.com/Shiriluz/Word-As-Image)
+  [![Demo](https://img.shields.io/badge/Demo-8A2BE2)](https://huggingface.co/spaces/SemanticTypography/Word-As-Image)
+
 + [ControlNet on Text Effect](https://mp.weixin.qq.com/s/rvpU4XhToldoec_bABeXJw) (Jul., 2023)
 
 + [DS-Fusion: Artistic Typography via Discriminated and Stylized Diffusion](https://arxiv.org/abs/2303.09604) (ICCV2023)  
