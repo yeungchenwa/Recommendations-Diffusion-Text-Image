@@ -108,6 +108,9 @@ This repository contains a paper collection of recent diffusion models for text-
   [![Star](https://img.shields.io/github/stars/yeungchenwa/OCR-SAM.svg?style=social&label=Star)](https://github.com/yeungchenwa/OCR-SAM)
 
 ### Text-Image Super Resolution
++ [Diffusion-based Blind Text Image Super-Resolution](https://arxiv.org/abs/2312.08886) (CVPR2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.08886)
+
 + [PEAN: A Diffusion-based Prior-Enhanced Attention Network for
 Scene Text Image Super-Resolution](https://arxiv.org/abs/2311.17955) (Nov. 2023)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.17955)
