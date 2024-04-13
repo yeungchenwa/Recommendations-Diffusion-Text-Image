@@ -16,6 +16,10 @@ This repository contains a paper collection of recent diffusion models for text-
 ##
 
 ### Font Generation
++ [DiffCJK: Conditional Diffusion Model for High-Quality and Wide-coverage CJK
+Character Generation](https://arxiv.org/abs/2404.05212) (Apr. 2024)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.05212)
+
 + [VecFusion: Vector Font Generation with Diffusion](https://arxiv.org/abs/2312.10540) (CVPR2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.10540)
 
