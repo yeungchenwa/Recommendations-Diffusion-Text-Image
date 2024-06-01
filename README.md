@@ -37,6 +37,10 @@ Character Generation](https://arxiv.org/abs/2404.05212) (Apr. 2024)
   [![Star](https://img.shields.io/github/stars/Hxyz-123/Font-diff.svg?style=social&label=Star)](https://github.com/Hxyz-123/Font-diff)
 
 ### Text-to-Image (Visual Text Generation)
++ [High Fidelity Scene Text Synthesis](https://arxiv.org/abs/2405.14701) (Dec, 2023)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.14701)
+  [![Star](https://img.shields.io/github/stars/CodeGoat24/DreamText.svg?style=social&label=Star)](https://github.com/CodeGoat24/DreamText)
+
 + [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://arxiv.org/abs/2403.09622) (Mar, 2024)  
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.09622)
   [![Project](https://img.shields.io/badge/Project-9cf)](https://glyph-byt5.github.io/)
