@@ -3,6 +3,7 @@
 This repository contains a paper collection of recent diffusion models for text-image generation tasks.
 
 ## 📖 Table of Contents 👀
+- [Document Restoration](#document-restoration)
 - [Font Generation](#font-generation)
 - [Text-to-Image (Visual Text Generation)](#text-to-image-visual-text-generation)
 - [Artistic Font Generation](#artistic-font-generation)
@@ -14,6 +15,12 @@ This repository contains a paper collection of recent diffusion models for text-
 - [Scene Text Recognition](#scene-text-recognition)
 - [Scene Text Detection](#scene-text-detection)
 ##
+
+### Document Restoration
++ 🔥🔥🔥[Predicting the Original Appearance of Damaged Historical Documents](https://arxiv.org/abs/2412.11634) (AAAI 2025)  
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11634)
+  [![Project](https://img.shields.io/badge/Project-9cf)](https://yeungchenwa.github.io/hdr-homepage/)
+  [![Star](https://img.shields.io/github/stars/yeungchenwa/HDR.svg?style=social&label=Star)](https://github.com/yeungchenwa/HDR)
 
 ### Font Generation
 + [DiffCJK: Conditional Diffusion Model for High-Quality and Wide-coverage CJK
